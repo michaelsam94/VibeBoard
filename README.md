@@ -65,4 +65,6 @@ When showing remote Giphy assets, the UI may display **“Powered by Giphy”** 
 
 ## License
 
-Add your license here if applicable.
+VibeBoard is released under the **[MIT License](LICENSE)**.
+
+Copyright (c) 2026 Michael Sam. See [`LICENSE`](LICENSE) for the full text.
