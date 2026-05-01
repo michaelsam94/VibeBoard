@@ -1,0 +1,7 @@
+# Copy to local.properties and fill in. local.properties is gitignored.
+# Android SDK (Android Studio usually creates this for you)
+sdk.dir=/path/to/Android/sdk
+
+# Optional: Giphy HTTP API key — https://developers.giphy.com/dashboard/
+# Without a key, the app uses a small bundled meme catalog only.
+GIPHY_API_KEY=
